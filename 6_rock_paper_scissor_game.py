@@ -24,7 +24,6 @@ else:
 print(f"You picked: {user_choice}. And the computer picked: {computer_choice}")
 
 
-
 if user_input == 0:
   if r == 0:
     print("tie")
